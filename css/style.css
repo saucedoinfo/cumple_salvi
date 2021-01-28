@@ -1,4 +1,10 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
+	height: 100vh;
+	width: 100%;
 	background: rgb(67, 182, 236);
 	background: linear-gradient(
 		193deg,
@@ -12,6 +18,13 @@ body {
 	align-items: center;
 }
 
+div {
+	margin: 2.5rem;
+}
+
 img {
-	max-height: 100vh;
+	max-height: 90vh;
+	box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
+	-webkit-box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
+	-moz-box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
 }
