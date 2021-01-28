@@ -27,4 +27,5 @@ img {
 	box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
 	-webkit-box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
 	-moz-box-shadow: 9px 15px 50px 0px rgba(0, 0, 0, 0.58);
+	border-radius: 25px;
 }
