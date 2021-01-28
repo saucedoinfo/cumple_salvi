@@ -1,0 +1,17 @@
+body {
+	background: rgb(67, 182, 236);
+	background: linear-gradient(
+		320deg,
+		rgba(67, 182, 236, 1) 0%,
+		rgba(61, 150, 208, 1) 51%,
+		rgba(55, 99, 172, 1) 100%
+	);
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	max-height: 100vh;
+}
